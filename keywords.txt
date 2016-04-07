@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Motori	KEYWORD1
+Motore	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+stop  KEYWORD2
+avanti  KEYWORD2
+indietro  KEYWORD2
+muovi	KEYWORD2
+attiva  KEYWORD2
+disattiva KEYWORD2
+dx  KEYWORD2
+sx  KEYWORD2
+stby  KEYWORD2
+pos KEYWORD2
+stopos  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

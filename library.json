@@ -1,0 +1,12 @@
+{
+    "name": "ExBohIno",
+    "keywords": "control, rover 5, manager",
+    "description": "The software that manage ExBohIno",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/ivanseidel/ArduinoThread.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "atmelavr"
+}
